@@ -51,11 +51,11 @@ const AboutPage: React.FC = React.memo(() => {
           <div className="contact-list">
             <div className="contact-item">
               <span className="contact-label">email:</span>
-              <a href="mailto:srija@example.com" className="contact-value">srija@example.com</a>
+              <a href="mailto:srijan@example.com" className="contact-value">srijan@example.com</a>
             </div>
             <div className="contact-item">
               <span className="contact-label">github:</span>
-              <a href="https://github.com/" target="_blank" rel="noopener noreferrer" className="contact-value">github.com/srija</a>
+              <a href="https://github.com/" target="_blank" rel="noopener noreferrer" className="contact-value">github.com/srijan</a>
             </div>
           </div>
         </section>

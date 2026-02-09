@@ -17,7 +17,7 @@ const MobileHeader: React.FC = React.memo(() => {
   return (
     <>
       <header className="mobile-header">
-        <h1 className="mobile-title">srija</h1>
+        <h1 className="mobile-title">srijan</h1>
         <button
           className={`menu-toggle ${mobileMenuOpen ? 'active' : ''}`}
           onClick={toggleMobileMenu}
@@ -30,9 +30,9 @@ const MobileHeader: React.FC = React.memo(() => {
       <div className={`mobile-nav-overlay ${mobileMenuOpen ? 'active' : ''}`}>
         <div className="mobile-nav-content">
           <div className="avatar-container">
-            <img src={profileImg} alt="Srija" className="avatar-img" />
+            <img src={profileImg} alt="Srijan" className="avatar-img" />
           </div>
-          <h1 className="site-title">srija</h1>
+          <h1 className="site-title">srijan</h1>
           <ul className="nav-links">
             {navItems.map((item) => (
               <li key={item.path}>

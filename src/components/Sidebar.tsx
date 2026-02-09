@@ -15,10 +15,10 @@ const Sidebar: React.FC = React.memo(() => {
     <nav className="sidebar">
       <div className="sidebar-inner">
         <div className="avatar-container">
-          <img src={profileImg} alt="Srija" className="avatar-img" />
+          <img src={profileImg} alt="Srijan" className="avatar-img" />
         </div>
 
-        <h1 className="site-title glitch" data-text="srija">srija</h1>
+        <h1 className="site-title glitch" data-text="srijan">Srijan Verma</h1>
         <span className="site-tagline">full stack developer</span>
 
         <ul className="nav-links">

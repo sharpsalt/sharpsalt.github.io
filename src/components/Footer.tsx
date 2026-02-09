@@ -26,7 +26,7 @@ const Footer: React.FC = React.memo(() => {
       <div className="footer-divider" />
       <div className="footer-copy">
         <span className="footer-terminal">
-          <span className="footer-prompt">$</span> echo &quot;crafted with ♥ by srija &bull; © 2026&quot;
+          <span className="footer-prompt">$</span> echo &quot;crafted with ♥ by srijan &bull; © 2026&quot;
         </span>
       </div>
       <div className="footer-built-with">
