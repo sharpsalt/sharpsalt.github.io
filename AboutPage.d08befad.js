@@ -881,9 +881,9 @@ const AboutPage = /*#__PURE__*/ (0, _reactDefault.default).memo(_c = ()=>{
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                                            href: "mailto:srija@example.com",
+                                            href: "mailto:srijan@example.com",
                                             className: "contact-value",
-                                            children: "srija@example.com"
+                                            children: "srijan@example.com"
                                         }, void 0, false, {
                                             fileName: "src/pages/AboutPage.tsx",
                                             lineNumber: 54,
@@ -911,7 +911,7 @@ const AboutPage = /*#__PURE__*/ (0, _reactDefault.default).memo(_c = ()=>{
                                             target: "_blank",
                                             rel: "noopener noreferrer",
                                             className: "contact-value",
-                                            children: "github.com/srija"
+                                            children: "github.com/srijan"
                                         }, void 0, false, {
                                             fileName: "src/pages/AboutPage.tsx",
                                             lineNumber: 58,

@@ -34592,7 +34592,7 @@ const Sidebar = /*#__PURE__*/ (0, _reactDefault.default).memo(_c = ()=>{
                     className: "avatar-container",
                     children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                         src: profileImg,
-                        alt: "Srija",
+                        alt: "Srijan",
                         className: "avatar-img"
                     }, void 0, false, {
                         fileName: "src/components/Sidebar.tsx",
@@ -34606,8 +34606,8 @@ const Sidebar = /*#__PURE__*/ (0, _reactDefault.default).memo(_c = ()=>{
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
                     className: "site-title glitch",
-                    "data-text": "srija",
-                    children: "srija"
+                    "data-text": "srijan",
+                    children: "Srijan Verma"
                 }, void 0, false, {
                     fileName: "src/components/Sidebar.tsx",
                     lineNumber: 21,
@@ -34774,7 +34774,7 @@ const MobileHeader = /*#__PURE__*/ _s((0, _reactDefault.default).memo(_c = _s(()
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
                         className: "mobile-title",
-                        children: "srija"
+                        children: "srijan"
                     }, void 0, false, {
                         fileName: "src/components/MobileHeader.tsx",
                         lineNumber: 20,
@@ -34821,7 +34821,7 @@ const MobileHeader = /*#__PURE__*/ _s((0, _reactDefault.default).memo(_c = _s(()
                             className: "avatar-container",
                             children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                                 src: profileImg,
-                                alt: "Srija",
+                                alt: "Srijan",
                                 className: "avatar-img"
                             }, void 0, false, {
                                 fileName: "src/components/MobileHeader.tsx",
@@ -34835,7 +34835,7 @@ const MobileHeader = /*#__PURE__*/ _s((0, _reactDefault.default).memo(_c = _s(()
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
                             className: "site-title",
-                            children: "srija"
+                            children: "srijan"
                         }, void 0, false, {
                             fileName: "src/components/MobileHeader.tsx",
                             lineNumber: 35,

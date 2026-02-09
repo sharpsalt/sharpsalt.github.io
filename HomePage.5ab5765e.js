@@ -1918,7 +1918,7 @@ const Footer = /*#__PURE__*/ (0, _reactDefault.default).memo(_c = ()=>{
                             lineNumber: 29,
                             columnNumber: 11
                         }, undefined),
-                        ' echo "crafted with \u2665 by srija \u2022 \xa9 2026"'
+                        ' echo "crafted with \u2665 by srijan \u2022 \xa9 2026"'
                     ]
                 }, void 0, true, {
                     fileName: "src/components/Footer.tsx",
