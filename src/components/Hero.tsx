@@ -3,7 +3,7 @@ import FadeInSection from './FadeInSection';
 import TextScramble from './TextScramble';
 import { useTypingEffect } from '../hooks';
 
-const techStack = ['Node.js','React','TypeScript','Python','Pytorch','Rust','JavaScript','C/C++','Git/Github'] as const;
+const techStack = ['Node.js','React','TypeScript','Python','Pytorch','Rust','JavaScript','C/C++','Git/Github','Assembly','Docker','Kubernetes','Databases'] as const;
 
 const Hero: React.FC = React.memo(() => {
   const [showContent, setShowContent] = useState(false);
@@ -40,12 +40,12 @@ const Hero: React.FC = React.memo(() => {
             remote
           </span>
           <span className="hero-divider-dot">·</span>
-          <span className="hero-badge">available for work</span>
+          <span className="hero-badge">currently not available for work</span>
         </div>
 
         <h3 className="hero-role">
           <span className="hero-role-bracket">&lt;</span>
-          <TextScramble text="Backend / Machine Learning" trigger={showContent} />
+          <TextScramble text=" Backend / Machine Learning" trigger={showContent} />
           <span className="hero-role-bracket"> /&gt;</span>
         </h3>
 
@@ -56,7 +56,7 @@ const Hero: React.FC = React.memo(() => {
         <div className="hero-meta">
           <p className="hero-reading">
             <span className="meta-label">currently reading:</span>
-            <em>NLP with Transformers by Lewis Tunstall</em>
+            <em>An Introduction to Hidden Markov Models and Bayesian Networks</em>
           </p>
           <p className="hero-mood">
             <span className="meta-label">&gt;</span>

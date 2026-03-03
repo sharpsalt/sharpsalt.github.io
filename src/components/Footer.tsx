@@ -1,9 +1,9 @@
 import React from 'react';
 
 const links = [
-  { label: 'github', url: 'https://github.com/', icon: '⌥' },
+  { label: 'github', url: 'https://github.com/sharpsalt', icon: '⌥' },
   { label: 'x/twtr', url: 'https://x.com/', icon: '✦' },
-  { label: 'linkedin', url: 'https://linkedin.com/', icon: '◆' },
+  { label: 'linkedin', url: 'https://www.linkedin.com/in/srijan-verma-803219183/', icon: '◆' },
 ] as const;
 
 const Footer: React.FC = React.memo(() => {

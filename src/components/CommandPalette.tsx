@@ -13,7 +13,7 @@ const commands: CommandItem[] = [
   { label: 'Blog', path: '/blog', icon: '✎', shortcut: '2' },
   { label: 'About', path: '/about', icon: '◉', shortcut: '3' },
   { label: 'Resources', path: '/resources', icon: '◈', shortcut: '4' },
-  { label: 'GitHub', path: 'https://github.com/', icon: '⌥', shortcut: '' },
+  { label: 'GitHub', path: 'https://github.com/sharpsalt', icon: '⌥', shortcut: '' },
 ] as const;
 
 const CommandPalette: React.FC = React.memo(() => {
